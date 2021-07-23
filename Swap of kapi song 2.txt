@@ -1,0 +1,5 @@
+function stepHit(step)
+    if curStep == 0 then
+        changeDadCharacter("whitty")
+    end
+end
